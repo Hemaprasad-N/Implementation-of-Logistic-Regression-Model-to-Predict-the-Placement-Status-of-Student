@@ -112,6 +112,8 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 
 
 ![image](https://github.com/Hemaprasad-N/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/135933397/d5896e59-529e-4203-864a-bda838293806)
+
+
 6.Data-status
 ![image](https://github.com/Hemaprasad-N/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/135933397/7a49641b-079b-499b-9013-7ed43fdb5a00)
 7.y_prediction array
