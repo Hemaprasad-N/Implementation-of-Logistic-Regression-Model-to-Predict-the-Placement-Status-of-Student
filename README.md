@@ -129,10 +129,12 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 8.Accuracy Value
 
 
+
 ![image](https://github.com/Hemaprasad-N/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/135933397/19833c44-8a0c-4077-8d95-2008279ea6d4)
 
 
 9.Confusion Array
+
 
 
 ![image](https://github.com/Hemaprasad-N/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/135933397/e580b833-f34b-47b3-9235-e485d6b1a9a4)
@@ -141,10 +143,12 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 10.Classification Report
 
 
+
 ![image](https://github.com/Hemaprasad-N/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/135933397/74aa7ce1-c797-45ac-8884-c95bb60855f9)
 
 
 11.Prediction of LR
+
 
 
 ![image](https://github.com/Hemaprasad-N/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/135933397/813c226a-e019-4503-8de1-d72348483d5b)
