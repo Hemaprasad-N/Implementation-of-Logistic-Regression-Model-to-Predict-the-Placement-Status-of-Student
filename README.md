@@ -9,11 +9,23 @@ To write a program to implement the the Logistic Regression Model to Predict the
 
 ## Algorithm
 1.Import the standard libraries. 
+
+
 2.Upload the dataset and check for any null or duplicated values using .isnull() and .duplicated() function respectively. 
+
+
 3.LabelEncoder and encode the dataset.
+
+
 4.Import LogisticRegression from sklearn and apply the model on the dataset.
+
+
 5.Predict the values of array.
+
+
 6.Calculate the accuracy, confusion and classification report by importing the required modulesfrom sklearn.
+
+
 7.Apply new unknown values.
 
 ## Program:
@@ -89,8 +101,12 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 
 ![image](https://github.com/Hemaprasad-N/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/135933397/87989fd8-7ae7-4a4d-8ab9-e9408f828870)
 4.Data Duplicate
+
+
 ![image](https://github.com/Hemaprasad-N/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/135933397/cb17aaa8-84ff-452f-b44c-a0bc9c1c9cfd)
 5.Print Data
+
+
 ![image](https://github.com/Hemaprasad-N/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/135933397/d5896e59-529e-4203-864a-bda838293806)
 6.Data-status
 ![image](https://github.com/Hemaprasad-N/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/135933397/7a49641b-079b-499b-9013-7ed43fdb5a00)
