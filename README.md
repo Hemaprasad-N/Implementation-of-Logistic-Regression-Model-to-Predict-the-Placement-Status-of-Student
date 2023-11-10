@@ -100,10 +100,14 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 
 
 ![image](https://github.com/Hemaprasad-N/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/135933397/87989fd8-7ae7-4a4d-8ab9-e9408f828870)
+
+
 4.Data Duplicate
 
 
 ![image](https://github.com/Hemaprasad-N/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/135933397/cb17aaa8-84ff-452f-b44c-a0bc9c1c9cfd)
+
+
 5.Print Data
 
 
