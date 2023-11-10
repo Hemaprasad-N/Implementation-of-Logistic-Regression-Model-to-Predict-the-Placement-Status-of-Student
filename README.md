@@ -83,6 +83,7 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ![the Logistic Regression Model to Predict the Placement Status of Student](sam.png)
 1.Placement Data
 ![image](https://github.com/Hemaprasad-N/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/135933397/e8beaaac-b4e6-4f85-bdfe-a57232470d57)
+2.Salary Data
 ![image](https://github.com/Hemaprasad-N/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/135933397/e9bb763b-94d5-474e-aebc-fbdc4fd1fbd7)
 ![image](https://github.com/Hemaprasad-N/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/135933397/87989fd8-7ae7-4a4d-8ab9-e9408f828870)
 ![image](https://github.com/Hemaprasad-N/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/135933397/cb17aaa8-84ff-452f-b44c-a0bc9c1c9cfd)
