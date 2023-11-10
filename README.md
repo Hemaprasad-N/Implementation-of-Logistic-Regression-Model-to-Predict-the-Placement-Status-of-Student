@@ -115,9 +115,17 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 
 
 6.Data-status
+
+
 ![image](https://github.com/Hemaprasad-N/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/135933397/7a49641b-079b-499b-9013-7ed43fdb5a00)
+
+
 7.y_prediction array
+
+
 ![image](https://github.com/Hemaprasad-N/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/135933397/3fe3eca6-ef62-483d-a9ff-16b5c9810f06)
+
+
 8.Accuracy Value
 ![image](https://github.com/Hemaprasad-N/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/135933397/19833c44-8a0c-4077-8d95-2008279ea6d4)
 9.Confusion Array
